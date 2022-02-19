@@ -35,7 +35,7 @@ fontLoader.load(
     "/fonts/helvetiker_regular.typeface.json",
     (font) => {
         const textGeometry = new TextGeometry(
-            "Kemon acho? Mashrur Bolchi.",
+            "Hey, Appreciate your visit. \n ~Mashrur",
             {
                 font,
                 size: .5,
